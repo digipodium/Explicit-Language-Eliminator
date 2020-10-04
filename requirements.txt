@@ -1,0 +1,8 @@
+youtube_transcript_api==0.3.0
+SpeechRecognition==3.8.1
+git+https://github.com/jaskiran705/pytube.git
+streamlit==0.60.0
+validators==0.15.0
+moviepy==1.0.3
+better_profanity==0.6.1
+pytube==9.6.0
