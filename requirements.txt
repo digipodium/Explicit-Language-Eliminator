@@ -4,6 +4,6 @@ validators==0.15.0
 git+https://github.com/a-czyrny/pytube
 better_profanity==0.6.1
 SpeechRecognition==3.8.1
-streamlit==0.60.0
+streamlit==1.37.0
 moviepy==1.0.3
 pydub
